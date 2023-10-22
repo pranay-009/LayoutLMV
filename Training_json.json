@@ -1,0 +1,1106 @@
+[
+  {
+    "ocr": "http:\/\/localhost:8080\/D11_jpg.rf.a6d9603bf35f7e77a7440e5356f4dbb2.jpg",
+    "id": 1,
+    "bbox": [
+      {
+        "x": 5.15625,
+        "y": 29.375,
+        "width": 55.15625,
+        "height": 3.75,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.6875,
+        "y": 34.375,
+        "width": 13.90625,
+        "height": 4.53125,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.84375,
+        "y": 53.28125,
+        "width": 20.625,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.15625,
+        "y": 67.96875,
+        "width": 24.6875,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "CHAMPION NETWORKS PRIVATE",
+      "LIMITED",
+      "09\/02\/2015",
+      "AAFCC9316H"
+    ],
+    "label": [
+      {
+        "x": 5.15625,
+        "y": 29.375,
+        "width": 55.15625,
+        "height": 3.75,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.6875,
+        "y": 34.375,
+        "width": 13.90625,
+        "height": 4.53125,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.84375,
+        "y": 53.28125,
+        "width": 20.625,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.15625,
+        "y": 67.96875,
+        "width": 24.6875,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2023-10-10T10:26:07.594222Z",
+    "updated_at": "2023-10-10T10:31:00.883756Z",
+    "lead_time": 284.85
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D16_jpg.rf.b6b29262771649f4c0ce57413f11844a.jpg",
+    "id": 2,
+    "bbox": [
+      {
+        "x": 7.65625,
+        "y": 29.375,
+        "width": 65.78125,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 7.34375,
+        "y": 59.6875,
+        "width": 17.65625,
+        "height": 5,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 7.5,
+        "y": 79.0625,
+        "width": 22.65625,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "NATRAJ BUILDTECH PRIVATE LIMITED",
+      "31\/07\/2007",
+      "AACCN56398"
+    ],
+    "label": [
+      {
+        "x": 7.65625,
+        "y": 29.375,
+        "width": 65.78125,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 7.34375,
+        "y": 59.6875,
+        "width": 17.65625,
+        "height": 5,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 7.5,
+        "y": 79.0625,
+        "width": 22.65625,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2023-10-10T10:28:15.617538Z",
+    "updated_at": "2023-10-10T10:32:11.080513Z",
+    "lead_time": 179.18800000000002
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D18_jpg.rf.322bbca046442690d5dc99d401871bf5.jpg",
+    "id": 3,
+    "bbox": [
+      {
+        "x": 2.34375,
+        "y": 27.1875,
+        "width": 59.6875,
+        "height": 4.21875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 2.5,
+        "y": 33.125,
+        "width": 39.0625,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 2.03125,
+        "y": 55.9375,
+        "width": 20,
+        "height": 5.46875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 1.875,
+        "y": 85.78125,
+        "width": 25.78125,
+        "height": 5.46875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "AMMA PARIWAR WELFARE SOCIETY",
+      "(NGO) GODAVARIKHANI",
+      "12\/04\/2013",
+      "AAEAA9489N"
+    ],
+    "label": [
+      {
+        "x": 2.34375,
+        "y": 27.1875,
+        "width": 59.6875,
+        "height": 4.21875,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 2.5,
+        "y": 33.125,
+        "width": 39.0625,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 2.03125,
+        "y": 55.9375,
+        "width": 20,
+        "height": 5.46875,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 1.875,
+        "y": 85.78125,
+        "width": 25.78125,
+        "height": 5.46875,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2023-10-10T10:40:09.830127Z",
+    "updated_at": "2023-10-10T10:40:09.830127Z",
+    "lead_time": 174.757
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D21_jpg.rf.23b7fbbd76a9e418b82301988b6ea373.jpg",
+    "id": 4,
+    "bbox": [
+      {
+        "x": 3.125,
+        "y": 33.125,
+        "width": 25.46875,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.59375,
+        "y": 43.4375,
+        "width": 41.09375,
+        "height": 3.75,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 2.8125,
+        "y": 52.1875,
+        "width": 17.34375,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.125,
+        "y": 66.09375,
+        "width": 23.59375,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "PILANGEERAN",
+      "PERUMAL PALANIYANDY",
+      "02\/06\/1969",
+      "AANPI4673C"
+    ],
+    "label": [
+      {
+        "x": 3.125,
+        "y": 33.125,
+        "width": 25.46875,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.59375,
+        "y": 43.4375,
+        "width": 41.09375,
+        "height": 3.75,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 2.8125,
+        "y": 52.1875,
+        "width": 17.34375,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.125,
+        "y": 66.09375,
+        "width": 23.59375,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2023-10-10T10:41:41.734066Z",
+    "updated_at": "2023-10-10T10:41:41.734066Z",
+    "lead_time": 89.613
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D30_jpg.rf.e15bbd6c0343420119da8e5dc497543f.jpg",
+    "id": 5,
+    "bbox": [
+      {
+        "x": 4.21875,
+        "y": 29.53125,
+        "width": 30,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.0625,
+        "y": 43.59375,
+        "width": 20.625,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.90625,
+        "y": 71.25,
+        "width": 22.34375,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.0625,
+        "y": 57.96875,
+        "width": 18.125,
+        "height": 5,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "T SENTHIL ARASU",
+      "THANGARAJ",
+      "DJXPS8991H",
+      "06\/06\/1980"
+    ],
+    "label": [
+      {
+        "x": 4.21875,
+        "y": 29.53125,
+        "width": 30,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.0625,
+        "y": 43.59375,
+        "width": 20.625,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.90625,
+        "y": 71.25,
+        "width": 22.34375,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.0625,
+        "y": 57.96875,
+        "width": 18.125,
+        "height": 5,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2023-10-10T10:44:17.368112Z",
+    "updated_at": "2023-10-10T10:58:57.769020Z",
+    "lead_time": 1012.2180000000001
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D3_jpg.rf.a8671618c18e5b6ce12805ba9fe1f9d4.jpg",
+    "id": 6,
+    "bbox": [
+      {
+        "x": 5.3125,
+        "y": 27.03125,
+        "width": 62.03125,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.6875,
+        "y": 53.90625,
+        "width": 17.96875,
+        "height": 5,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.6875,
+        "y": 68.125,
+        "width": 23.28125,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "PESA MARKETING PRIVATE LIMITED",
+      "29\/06\/2015",
+      "AAICP3050C"
+    ],
+    "label": [
+      {
+        "x": 5.3125,
+        "y": 27.03125,
+        "width": 62.03125,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.6875,
+        "y": 53.90625,
+        "width": 17.96875,
+        "height": 5,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.6875,
+        "y": 68.125,
+        "width": 23.28125,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2023-10-10T10:59:30.711110Z",
+    "updated_at": "2023-10-10T10:59:30.711110Z",
+    "lead_time": 31.694
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D41_jpg.rf.67c525f0fbfb1bae4f8e7b1c4d4ea16e.jpg",
+    "id": 7,
+    "bbox": [
+      {
+        "x": 36.09375,
+        "y": 44.21875,
+        "width": 25.15625,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.375,
+        "y": 58.75,
+        "width": 61.25,
+        "height": 3.75,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.21875,
+        "y": 87.8125,
+        "width": 16.5625,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "AACC06977H",
+      "OBIDUA TECHNOLOGY (OPC) PRIVATE LIMITED",
+      "26\/04\/2018"
+    ],
+    "label": [
+      {
+        "x": 36.09375,
+        "y": 44.21875,
+        "width": 25.15625,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.375,
+        "y": 58.75,
+        "width": 61.25,
+        "height": 3.75,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 4.21875,
+        "y": 87.8125,
+        "width": 16.5625,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2023-10-10T11:00:25.019747Z",
+    "updated_at": "2023-10-10T11:00:25.019747Z",
+    "lead_time": 47.217
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D48_jpg.rf.b0a15daf0fc34163241240e2783162f3.jpg",
+    "id": 8,
+    "bbox": [
+      {
+        "x": 33.125,
+        "y": 42.65625,
+        "width": 22.03125,
+        "height": 5.46875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.46875,
+        "y": 59.84375,
+        "width": 23.59375,
+        "height": 3.75,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.46875,
+        "y": 85.78125,
+        "width": 12.34375,
+        "height": 4.0625,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "AAITA9338D",
+      "ASHA FOUNDATION",
+      "10\/12\/2021"
+    ],
+    "label": [
+      {
+        "x": 33.125,
+        "y": 42.65625,
+        "width": 22.03125,
+        "height": 5.46875,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.46875,
+        "y": 59.84375,
+        "width": 23.59375,
+        "height": 3.75,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.46875,
+        "y": 85.78125,
+        "width": 12.34375,
+        "height": 4.0625,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2023-10-10T11:01:22.268135Z",
+    "updated_at": "2023-10-10T11:01:22.268135Z",
+    "lead_time": 55.445
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D49_jpg.rf.6c9466b5d13290a92d41f47d1c98eca3.jpg",
+    "id": 9,
+    "bbox": [
+      {
+        "x": 36.875,
+        "y": 46.09375,
+        "width": 23.59375,
+        "height": 3.125,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 54.53125,
+        "width": 58.4375,
+        "height": 2.8125,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.5625,
+        "y": 57.8125,
+        "width": 34.21875,
+        "height": 2.1875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 72.03125,
+        "width": 16.09375,
+        "height": 3.125,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "AAGAS2376C",
+      "SHREE KRISHNAYAN DESI GAURAKSHA AVAM",
+      "GOLOKDHAM SEWA SAMITI",
+      "21\/12\/2010"
+    ],
+    "label": [
+      {
+        "x": 36.875,
+        "y": 46.09375,
+        "width": 23.59375,
+        "height": 3.125,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 54.53125,
+        "width": 58.4375,
+        "height": 2.8125,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.5625,
+        "y": 57.8125,
+        "width": 34.21875,
+        "height": 2.1875,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 72.03125,
+        "width": 16.09375,
+        "height": 3.125,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2023-10-10T11:02:19.719261Z",
+    "updated_at": "2023-10-10T11:02:19.719261Z",
+    "lead_time": 54.999
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D51_jpg.rf.41da909fd2e0b2f8477f76e535034cce.jpg",
+    "id": 10,
+    "bbox": [
+      {
+        "x": 6.09375,
+        "y": 30.625,
+        "width": 22.5,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 7.96875,
+        "y": 42.03125,
+        "width": 19.6875,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 52.96875,
+        "width": 17.8125,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 66.09375,
+        "width": 22.8125,
+        "height": 4.84375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "A SELVARANI",
+      "ARUMUGAM",
+      "19\/06\/1978",
+      "BMNPS3197J"
+    ],
+    "label": [
+      {
+        "x": 6.09375,
+        "y": 30.625,
+        "width": 22.5,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 7.96875,
+        "y": 42.03125,
+        "width": 19.6875,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 52.96875,
+        "width": 17.8125,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 6.25,
+        "y": 66.09375,
+        "width": 22.8125,
+        "height": 4.84375,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2023-10-10T11:03:06.661346Z",
+    "updated_at": "2023-10-10T11:03:06.661346Z",
+    "lead_time": 44.788
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D56_jpg.rf.b943d0ffaa8a1f311401971f2ac7d606.jpg",
+    "id": 11,
+    "bbox": [
+      {
+        "x": 39.0625,
+        "y": 38.90625,
+        "width": 22.65625,
+        "height": 5,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.3125,
+        "y": 57.5,
+        "width": 28.28125,
+        "height": 4.21875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.3125,
+        "y": 91.40625,
+        "width": 14.84375,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "ACZPM7427Q",
+      "MOHAMMED MOQUIM",
+      "03\/07\/1965"
+    ],
+    "label": [
+      {
+        "x": 39.0625,
+        "y": 38.90625,
+        "width": 22.65625,
+        "height": 5,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.3125,
+        "y": 57.5,
+        "width": 28.28125,
+        "height": 4.21875,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 5.3125,
+        "y": 91.40625,
+        "width": 14.84375,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2023-10-10T11:04:03.437875Z",
+    "updated_at": "2023-10-10T11:04:03.437875Z",
+    "lead_time": 54.614
+  },
+  {
+    "ocr": "http:\/\/localhost:8080\/D66_jpg.rf.c16498959211fb9b07f075ce5a0e56f3.jpg",
+    "id": 12,
+    "bbox": [
+      {
+        "x": 3.90625,
+        "y": 29.0625,
+        "width": 32.34375,
+        "height": 4.375,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.4375,
+        "y": 47.34375,
+        "width": 16.875,
+        "height": 5,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.4375,
+        "y": 67.5,
+        "width": 24.0625,
+        "height": 5.46875,
+        "rotation": 0,
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "transcription": [
+      "RAJENDRA BEHERA",
+      "31\/10\/1985",
+      "AZUPB5197Q"
+    ],
+    "label": [
+      {
+        "x": 3.90625,
+        "y": 29.0625,
+        "width": 32.34375,
+        "height": 4.375,
+        "rotation": 0,
+        "labels": [
+          0
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.4375,
+        "y": 47.34375,
+        "width": 16.875,
+        "height": 5,
+        "rotation": 0,
+        "labels": [
+          2
+        ],
+        "original_width": 640,
+        "original_height": 640
+      },
+      {
+        "x": 3.4375,
+        "y": 67.5,
+        "width": 24.0625,
+        "height": 5.46875,
+        "rotation": 0,
+        "labels": [
+          1
+        ],
+        "original_width": 640,
+        "original_height": 640
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2023-10-10T11:05:09.837252Z",
+    "updated_at": "2023-10-10T11:05:18.612325Z",
+    "lead_time": 72.312
+  }
+]

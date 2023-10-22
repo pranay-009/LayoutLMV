@@ -1,0 +1,3716 @@
+[
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D11_jpg.rf.a6d9603bf35f7e77a7440e5356f4dbb2.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "d2078988-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.0625,
+                            "y": 4.0625,
+                            "width": 33.90625,
+                            "height": 7.03125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "d2078988-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "H"
+                            ],
+                            "x": 64.0625,
+                            "y": 4.0625,
+                            "width": 33.90625,
+                            "height": 7.03125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "408f6c1b-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.59375,
+                            "y": 16.40625,
+                            "width": 37.96875,
+                            "height": 5.78125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "408f6c1b-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOMETAX DEPARTMENT"
+                            ],
+                            "x": 3.59375,
+                            "y": 16.40625,
+                            "width": 37.96875,
+                            "height": 5.78125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "1873adeb-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.6875,
+                            "y": 15.46875,
+                            "width": 32.8125,
+                            "height": 6.09375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "1873adeb-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OFINDIA"
+                            ],
+                            "x": 64.6875,
+                            "y": 15.46875,
+                            "width": 32.8125,
+                            "height": 6.09375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "296547b5-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.15625,
+                            "y": 29.375,
+                            "width": 55.15625,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "296547b5-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "CHAMPION NETWORKS PRIVATE"
+                            ],
+                            "x": 5.15625,
+                            "y": 29.375,
+                            "width": 55.15625,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "49d56427-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.6875,
+                            "y": 34.375,
+                            "width": 13.90625,
+                            "height": 4.53125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "49d56427-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "LIMITED"
+                            ],
+                            "x": 4.6875,
+                            "y": 34.375,
+                            "width": 13.90625,
+                            "height": 4.53125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "12d2bb8d-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.84375,
+                            "y": 53.28125,
+                            "width": 20.625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "12d2bb8d-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "09/02/2015"
+                            ],
+                            "x": 4.84375,
+                            "y": 53.28125,
+                            "width": 20.625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "504cc4a4-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.375,
+                            "y": 60.625,
+                            "width": 34.0625,
+                            "height": 3.28125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "504cc4a4-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number"
+                            ],
+                            "x": 4.375,
+                            "y": 60.625,
+                            "width": 34.0625,
+                            "height": 3.28125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "c0c7f59e-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.15625,
+                            "y": 67.96875,
+                            "width": 24.6875,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "c0c7f59e-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AAFCC9316H"
+                            ],
+                            "x": 5.15625,
+                            "y": 67.96875,
+                            "width": 24.6875,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D16_jpg.rf.b6b29262771649f4c0ce57413f11844a.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "775280ef-2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.59375,
+                            "y": 6.71875,
+                            "width": 33.4375,
+                            "height": 6.5625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "775280ef-2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "H "
+                            ],
+                            "x": 63.59375,
+                            "y": 6.71875,
+                            "width": 33.4375,
+                            "height": 6.5625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "c3eebb47-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.125,
+                            "y": 17.34375,
+                            "width": 39.375,
+                            "height": 5.78125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "c3eebb47-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 3.125,
+                            "y": 17.34375,
+                            "width": 39.375,
+                            "height": 5.78125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "913b1978-2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.53125,
+                            "y": 17.65625,
+                            "width": 31.875,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "913b1978-2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT OF INDIA"
+                            ],
+                            "x": 64.53125,
+                            "y": 17.65625,
+                            "width": 31.875,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "19b90939-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 7.65625,
+                            "y": 29.375,
+                            "width": 65.78125,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "19b90939-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "NATRAJ BUILDTECH PRIVATE LIMITED"
+                            ],
+                            "x": 7.65625,
+                            "y": 29.375,
+                            "width": 65.78125,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "c9fc42e7-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 7.34375,
+                            "y": 59.6875,
+                            "width": 17.65625,
+                            "height": 5.0,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "c9fc42e7-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "31/07/2007"
+                            ],
+                            "x": 7.34375,
+                            "y": 59.6875,
+                            "width": 17.65625,
+                            "height": 5.0,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "474e91a3-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.09375,
+                            "y": 67.8125,
+                            "width": 34.53125,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "474e91a3-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number"
+                            ],
+                            "x": 6.09375,
+                            "y": 67.8125,
+                            "width": 34.53125,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "42c0a635-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 94.21875,
+                            "y": 77.1875,
+                            "width": 2.65625,
+                            "height": 17.1875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "42c0a635-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "20028022"
+                            ],
+                            "x": 94.21875,
+                            "y": 77.1875,
+                            "width": 2.65625,
+                            "height": 17.1875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "ba0a6cd6-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 7.5,
+                            "y": 79.0625,
+                            "width": 22.65625,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "ba0a6cd6-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AACCN56398"
+                            ],
+                            "x": 7.5,
+                            "y": 79.0625,
+                            "width": 22.65625,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D18_jpg.rf.322bbca046442690d5dc99d401871bf5.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "197187fe-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.0625,
+                            "y": 5.0,
+                            "width": 32.34375,
+                            "height": 7.1875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "197187fe-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HROR"
+                            ],
+                            "x": 64.0625,
+                            "y": 5.0,
+                            "width": 32.34375,
+                            "height": 7.1875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "680ea696-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.5,
+                            "y": 15.78125,
+                            "width": 39.53125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "680ea696-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 2.5,
+                            "y": 15.78125,
+                            "width": 39.53125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "a2dc289a-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 65.0,
+                            "y": 16.09375,
+                            "width": 31.09375,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "a2dc289a-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 65.0,
+                            "y": 16.09375,
+                            "width": 31.09375,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "5d43f74f-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.34375,
+                            "y": 27.1875,
+                            "width": 59.6875,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "5d43f74f-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AMMA PARIWAR WELFARE SOCIETY"
+                            ],
+                            "x": 2.34375,
+                            "y": 27.1875,
+                            "width": 59.6875,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "87bbc6e8-2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.5,
+                            "y": 33.125,
+                            "width": 39.0625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "87bbc6e8-2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "(NGO) GODAVARIKHANI"
+                            ],
+                            "x": 2.5,
+                            "y": 33.125,
+                            "width": 39.0625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "29f7357e-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.03125,
+                            "y": 55.9375,
+                            "width": 20.0,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "29f7357e-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "12/04/2013"
+                            ],
+                            "x": 2.03125,
+                            "y": 55.9375,
+                            "width": 20.0,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "9a7f8054-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 1.40625,
+                            "y": 69.53125,
+                            "width": 36.5625,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "9a7f8054-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number"
+                            ],
+                            "x": 1.40625,
+                            "y": 69.53125,
+                            "width": 36.5625,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "612189d9-c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 1.875,
+                            "y": 85.78125,
+                            "width": 25.78125,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "612189d9-c",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AAEAA9489N"
+                            ],
+                            "x": 1.875,
+                            "y": 85.78125,
+                            "width": 25.78125,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D21_jpg.rf.23b7fbbd76a9e418b82301988b6ea373.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "db618885-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.75,
+                            "y": 5.3125,
+                            "width": 33.28125,
+                            "height": 7.5,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "db618885-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HRRC"
+                            ],
+                            "x": 63.75,
+                            "y": 5.3125,
+                            "width": 33.28125,
+                            "height": 7.5,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "cd3e14f2-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.125,
+                            "y": 17.65625,
+                            "width": 38.125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "cd3e14f2-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 3.125,
+                            "y": 17.65625,
+                            "width": 38.125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "caba8114-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.53125,
+                            "y": 17.1875,
+                            "width": 32.03125,
+                            "height": 6.5625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "caba8114-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OFINDIA"
+                            ],
+                            "x": 64.53125,
+                            "y": 17.1875,
+                            "width": 32.03125,
+                            "height": 6.5625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "5e03c189-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.125,
+                            "y": 33.125,
+                            "width": 25.46875,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "5e03c189-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "PILANGEERAN"
+                            ],
+                            "x": 3.125,
+                            "y": 33.125,
+                            "width": 25.46875,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "bdbc7da8-2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.59375,
+                            "y": 43.4375,
+                            "width": 41.09375,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "bdbc7da8-2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "PERUMAL PALANIYANDY"
+                            ],
+                            "x": 3.59375,
+                            "y": 43.4375,
+                            "width": 41.09375,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "3254cd44-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.8125,
+                            "y": 52.1875,
+                            "width": 17.34375,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "3254cd44-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "02/06/1969"
+                            ],
+                            "x": 2.8125,
+                            "y": 52.1875,
+                            "width": 17.34375,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "a16641c0-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.0625,
+                            "y": 60.78125,
+                            "width": 36.09375,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "a16641c0-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number"
+                            ],
+                            "x": 4.0625,
+                            "y": 60.78125,
+                            "width": 36.09375,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "0983bfa1-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.125,
+                            "y": 66.09375,
+                            "width": 23.59375,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "0983bfa1-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AANPI4673C"
+                            ],
+                            "x": 3.125,
+                            "y": 66.09375,
+                            "width": 23.59375,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "69d15a2a-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.46875,
+                            "y": 85.625,
+                            "width": 16.875,
+                            "height": 5.625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "69d15a2a-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                ".fanyoue"
+                            ],
+                            "x": 5.46875,
+                            "y": 85.625,
+                            "width": 16.875,
+                            "height": 5.625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "9d193113-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.59375,
+                            "y": 92.65625,
+                            "width": 12.96875,
+                            "height": 4.53125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "9d193113-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Signature"
+                            ],
+                            "x": 3.59375,
+                            "y": 92.65625,
+                            "width": 12.96875,
+                            "height": 4.53125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D30_jpg.rf.e15bbd6c0343420119da8e5dc497543f.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "a7ae5bf5-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 25.15625,
+                            "y": 1.71875,
+                            "width": 18.28125,
+                            "height": 9.53125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "a7ae5bf5-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "faHTST"
+                            ],
+                            "x": 25.15625,
+                            "y": 1.71875,
+                            "width": 18.28125,
+                            "height": 9.53125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "dae833da-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.90625,
+                            "y": 4.0625,
+                            "width": 34.6875,
+                            "height": 7.03125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "dae833da-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR"
+                            ],
+                            "x": 63.90625,
+                            "y": 4.0625,
+                            "width": 34.6875,
+                            "height": 7.03125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "ee03d5e6-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.65625,
+                            "y": 16.09375,
+                            "width": 40.15625,
+                            "height": 5.78125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "ee03d5e6-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 2.65625,
+                            "y": 16.09375,
+                            "width": 40.15625,
+                            "height": 5.78125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "4905e2cf-c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 65.0,
+                            "y": 15.78125,
+                            "width": 32.8125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "4905e2cf-c",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 65.0,
+                            "y": 15.78125,
+                            "width": 32.8125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "2e7c64d0-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.21875,
+                            "y": 29.53125,
+                            "width": 30.0,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "2e7c64d0-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "T SENTHIL ARASU"
+                            ],
+                            "x": 4.21875,
+                            "y": 29.53125,
+                            "width": 30.0,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "1319fa65-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.0625,
+                            "y": 43.59375,
+                            "width": 20.625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "1319fa65-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "THANGARAJ"
+                            ],
+                            "x": 4.0625,
+                            "y": 43.59375,
+                            "width": 20.625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "7b28db67-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.0625,
+                            "y": 57.96875,
+                            "width": 18.125,
+                            "height": 5.0,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "7b28db67-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "06/06/1980"
+                            ],
+                            "x": 4.0625,
+                            "y": 57.96875,
+                            "width": 18.125,
+                            "height": 5.0,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "b37c7517-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.375,
+                            "y": 66.09375,
+                            "width": 34.6875,
+                            "height": 3.28125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "b37c7517-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Numbe"
+                            ],
+                            "x": 4.375,
+                            "y": 66.09375,
+                            "width": 34.6875,
+                            "height": 3.28125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "bfcad463-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.90625,
+                            "y": 71.25,
+                            "width": 22.34375,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "bfcad463-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "DJXPS8991H"
+                            ],
+                            "x": 3.90625,
+                            "y": 71.25,
+                            "width": 22.34375,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "956f186c-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 95.46875,
+                            "y": 81.09375,
+                            "width": 2.65625,
+                            "height": 18.4375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "956f186c-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "3022211"
+                            ],
+                            "x": 95.46875,
+                            "y": 81.09375,
+                            "width": 2.65625,
+                            "height": 18.4375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "2d0050e0-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.90625,
+                            "y": 97.1875,
+                            "width": 13.125,
+                            "height": 2.65625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "2d0050e0-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Signature"
+                            ],
+                            "x": 3.90625,
+                            "y": 97.1875,
+                            "width": 13.125,
+                            "height": 2.65625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D3_jpg.rf.a8671618c18e5b6ce12805ba9fe1f9d4.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "43b4eced-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 62.8125,
+                            "y": 6.40625,
+                            "width": 34.0625,
+                            "height": 6.5625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "43b4eced-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR O"
+                            ],
+                            "x": 62.8125,
+                            "y": 6.40625,
+                            "width": 34.0625,
+                            "height": 6.5625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "8df5a439-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.34375,
+                            "y": 18.125,
+                            "width": 38.90625,
+                            "height": 5.3125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "8df5a439-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 2.34375,
+                            "y": 18.125,
+                            "width": 38.90625,
+                            "height": 5.3125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "5f0bc2d6-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.125,
+                            "y": 17.1875,
+                            "width": 33.28125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "5f0bc2d6-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 63.125,
+                            "y": 17.1875,
+                            "width": 33.28125,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "22f4a795-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.3125,
+                            "y": 27.03125,
+                            "width": 62.03125,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "22f4a795-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "PESA MARKETING PRIVATE LIMITED"
+                            ],
+                            "x": 5.3125,
+                            "y": 27.03125,
+                            "width": 62.03125,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "601e1639-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.6875,
+                            "y": 53.90625,
+                            "width": 17.96875,
+                            "height": 5.0,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "601e1639-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "29/06/2015"
+                            ],
+                            "x": 4.6875,
+                            "y": 53.90625,
+                            "width": 17.96875,
+                            "height": 5.0,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "3da43c8b-c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.125,
+                            "y": 62.65625,
+                            "width": 34.53125,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "3da43c8b-c",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number"
+                            ],
+                            "x": 3.125,
+                            "y": 62.65625,
+                            "width": 34.53125,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "7a1c10e5-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.6875,
+                            "y": 68.125,
+                            "width": 23.28125,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "7a1c10e5-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AAICP3050C"
+                            ],
+                            "x": 4.6875,
+                            "y": 68.125,
+                            "width": 23.28125,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D41_jpg.rf.67c525f0fbfb1bae4f8e7b1c4d4ea16e.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "0e9054d0-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 62.65625,
+                            "y": 8.90625,
+                            "width": 31.5625,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "0e9054d0-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR O"
+                            ],
+                            "x": 62.65625,
+                            "y": 8.90625,
+                            "width": 31.5625,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "4a6b5010-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.0625,
+                            "y": 17.5,
+                            "width": 37.34375,
+                            "height": 5.3125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "4a6b5010-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAXDEPARTMENT"
+                            ],
+                            "x": 4.0625,
+                            "y": 17.5,
+                            "width": 37.34375,
+                            "height": 5.3125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "c9df1d3a-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 62.96875,
+                            "y": 17.65625,
+                            "width": 30.9375,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "c9df1d3a-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OFINDIA"
+                            ],
+                            "x": 62.96875,
+                            "y": 17.65625,
+                            "width": 30.9375,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "aacc0758-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 29.375,
+                            "y": 36.875,
+                            "width": 40.46875,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "aacc0758-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number Card"
+                            ],
+                            "x": 29.375,
+                            "y": 36.875,
+                            "width": 40.46875,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "fb03a155-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 36.09375,
+                            "y": 44.21875,
+                            "width": 25.15625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "fb03a155-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AACC06977H"
+                            ],
+                            "x": 36.09375,
+                            "y": 44.21875,
+                            "width": 25.15625,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "67ed15e9-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.21875,
+                            "y": 54.21875,
+                            "width": 11.25,
+                            "height": 3.90625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "67ed15e9-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "T/Name"
+                            ],
+                            "x": 4.21875,
+                            "y": 54.21875,
+                            "width": 11.25,
+                            "height": 3.90625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "90c041e0-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.375,
+                            "y": 58.75,
+                            "width": 61.25,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "90c041e0-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "OBIDUA TECHNOLOGY (OPC) PRIVATE LIMITED"
+                            ],
+                            "x": 4.375,
+                            "y": 58.75,
+                            "width": 61.25,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "4891eafc-6",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 93.90625,
+                            "y": 77.8125,
+                            "width": 2.65625,
+                            "height": 17.8125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "4891eafc-6",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "272228"
+                            ],
+                            "x": 93.90625,
+                            "y": 77.8125,
+                            "width": 2.65625,
+                            "height": 17.8125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "104b068d-2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.375,
+                            "y": 83.28125,
+                            "width": 30.625,
+                            "height": 3.28125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "104b068d-2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Date of Incorporation/Formation"
+                            ],
+                            "x": 4.375,
+                            "y": 83.28125,
+                            "width": 30.625,
+                            "height": 3.28125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "b0825eb5-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.21875,
+                            "y": 87.8125,
+                            "width": 16.5625,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "b0825eb5-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "26/04/2018"
+                            ],
+                            "x": 4.21875,
+                            "y": 87.8125,
+                            "width": 16.5625,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D48_jpg.rf.b0a15daf0fc34163241240e2783162f3.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "96b3c3f7-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 27.5,
+                            "y": 3.59375,
+                            "width": 16.40625,
+                            "height": 8.90625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "96b3c3f7-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "faHTST"
+                            ],
+                            "x": 27.5,
+                            "y": 3.59375,
+                            "width": 16.40625,
+                            "height": 8.90625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "7993d09f-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.90625,
+                            "y": 6.25,
+                            "width": 31.5625,
+                            "height": 7.1875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "7993d09f-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR"
+                            ],
+                            "x": 63.90625,
+                            "y": 6.25,
+                            "width": 31.5625,
+                            "height": 7.1875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "492a3d55-2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.625,
+                            "y": 14.375,
+                            "width": 37.5,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "492a3d55-2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 5.625,
+                            "y": 14.375,
+                            "width": 37.5,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "a3d29ad7-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.6875,
+                            "y": 15.3125,
+                            "width": 30.15625,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "a3d29ad7-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OFINDIA"
+                            ],
+                            "x": 64.6875,
+                            "y": 15.3125,
+                            "width": 30.15625,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "6580db08-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 25.625,
+                            "y": 34.375,
+                            "width": 36.25,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "6580db08-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number Card"
+                            ],
+                            "x": 25.625,
+                            "y": 34.375,
+                            "width": 36.25,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "e40a99ff-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 33.125,
+                            "y": 42.65625,
+                            "width": 22.03125,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "e40a99ff-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AAITA9338D"
+                            ],
+                            "x": 33.125,
+                            "y": 42.65625,
+                            "width": 22.03125,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "5ebddb4f-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.78125,
+                            "y": 54.375,
+                            "width": 12.96875,
+                            "height": 4.0625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "5ebddb4f-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "/Name"
+                            ],
+                            "x": 5.78125,
+                            "y": 54.375,
+                            "width": 12.96875,
+                            "height": 4.0625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "7f6b5f19-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.46875,
+                            "y": 59.84375,
+                            "width": 23.59375,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "7f6b5f19-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "ASHA FOUNDATION"
+                            ],
+                            "x": 5.46875,
+                            "y": 59.84375,
+                            "width": 23.59375,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "c0057678-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 85.15625,
+                            "y": 75.78125,
+                            "width": 9.6875,
+                            "height": 4.0625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "c0057678-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "30122021"
+                            ],
+                            "x": 85.15625,
+                            "y": 75.78125,
+                            "width": 9.6875,
+                            "height": 4.0625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "e686467f-c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.46875,
+                            "y": 81.71875,
+                            "width": 32.96875,
+                            "height": 3.59375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "e686467f-c",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Date of Incorpation/Formation"
+                            ],
+                            "x": 5.46875,
+                            "y": 81.71875,
+                            "width": 32.96875,
+                            "height": 3.59375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "f2ef9c5e-1",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.46875,
+                            "y": 85.78125,
+                            "width": 12.34375,
+                            "height": 4.0625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "f2ef9c5e-1",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "10/12/2021"
+                            ],
+                            "x": 5.46875,
+                            "y": 85.78125,
+                            "width": 12.34375,
+                            "height": 4.0625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D49_jpg.rf.6c9466b5d13290a92d41f47d1c98eca3.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "3f330e42-c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 7.34375,
+                            "y": 24.0625,
+                            "width": 17.65625,
+                            "height": 3.90625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "3f330e42-c",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "BT"
+                            ],
+                            "x": 7.34375,
+                            "y": 24.0625,
+                            "width": 17.65625,
+                            "height": 3.90625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "0d11d32a-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 62.34375,
+                            "y": 24.53125,
+                            "width": 11.875,
+                            "height": 3.4375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "0d11d32a-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR"
+                            ],
+                            "x": 62.34375,
+                            "y": 24.53125,
+                            "width": 11.875,
+                            "height": 3.4375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "126ef6c4-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 76.5625,
+                            "y": 25.0,
+                            "width": 15.46875,
+                            "height": 2.96875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "126ef6c4-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HROOR"
+                            ],
+                            "x": 76.5625,
+                            "y": 25.0,
+                            "width": 15.46875,
+                            "height": 2.96875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "02a638aa-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.40625,
+                            "y": 29.84375,
+                            "width": 35.78125,
+                            "height": 3.28125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "02a638aa-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 6.40625,
+                            "y": 29.84375,
+                            "width": 35.78125,
+                            "height": 3.28125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "f3165726-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 62.8125,
+                            "y": 29.84375,
+                            "width": 29.0625,
+                            "height": 3.28125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "f3165726-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 62.8125,
+                            "y": 29.84375,
+                            "width": 29.0625,
+                            "height": 3.28125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "721705c2-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 30.15625,
+                            "y": 41.25,
+                            "width": 38.28125,
+                            "height": 2.65625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "721705c2-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number Card"
+                            ],
+                            "x": 30.15625,
+                            "y": 41.25,
+                            "width": 38.28125,
+                            "height": 2.65625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "b9fb4002-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 36.875,
+                            "y": 46.09375,
+                            "width": 23.59375,
+                            "height": 3.125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "b9fb4002-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AAGAS2376C"
+                            ],
+                            "x": 36.875,
+                            "y": 46.09375,
+                            "width": 23.59375,
+                            "height": 3.125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "ed977794-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.40625,
+                            "y": 52.03125,
+                            "width": 10.625,
+                            "height": 2.1875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "ed977794-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "/Name"
+                            ],
+                            "x": 6.40625,
+                            "y": 52.03125,
+                            "width": 10.625,
+                            "height": 2.1875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "2fec4262-1",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.25,
+                            "y": 54.53125,
+                            "width": 58.4375,
+                            "height": 2.8125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "2fec4262-1",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "SHREE KRISHNAYAN DESI GAURAKSHA AVAM"
+                            ],
+                            "x": 6.25,
+                            "y": 54.53125,
+                            "width": 58.4375,
+                            "height": 2.8125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "2b510acd-1",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.5625,
+                            "y": 57.8125,
+                            "width": 34.21875,
+                            "height": 2.1875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "2b510acd-1",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOLOKDHAM SEWA SAMITI"
+                            ],
+                            "x": 6.5625,
+                            "y": 57.8125,
+                            "width": 34.21875,
+                            "height": 2.1875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "e88e97ca-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.09375,
+                            "y": 69.21875,
+                            "width": 29.84375,
+                            "height": 2.65625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "e88e97ca-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Date of Incorporation/Formation"
+                            ],
+                            "x": 6.09375,
+                            "y": 69.21875,
+                            "width": 29.84375,
+                            "height": 2.65625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "db653ecd-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.25,
+                            "y": 72.03125,
+                            "width": 16.09375,
+                            "height": 3.125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "db653ecd-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "21/12/2010"
+                            ],
+                            "x": 6.25,
+                            "y": 72.03125,
+                            "width": 16.09375,
+                            "height": 3.125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D51_jpg.rf.41da909fd2e0b2f8477f76e535034cce.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "cd2cf756-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 27.5,
+                            "y": 4.84375,
+                            "width": 17.5,
+                            "height": 8.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "cd2cf756-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "faHTST"
+                            ],
+                            "x": 27.5,
+                            "y": 4.84375,
+                            "width": 17.5,
+                            "height": 8.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "e3ae33fd-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 65.15625,
+                            "y": 5.0,
+                            "width": 33.28125,
+                            "height": 6.5625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "e3ae33fd-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR ROR"
+                            ],
+                            "x": 65.15625,
+                            "y": 5.0,
+                            "width": 33.28125,
+                            "height": 6.5625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "e749538a-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 66.09375,
+                            "y": 15.0,
+                            "width": 32.34375,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "e749538a-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 66.09375,
+                            "y": 15.0,
+                            "width": 32.34375,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "05316173-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.15625,
+                            "y": 17.1875,
+                            "width": 39.21875,
+                            "height": 5.625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "05316173-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 5.15625,
+                            "y": 17.1875,
+                            "width": 39.21875,
+                            "height": 5.625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "a8c9e697-1",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.09375,
+                            "y": 30.625,
+                            "width": 22.5,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "a8c9e697-1",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "A SELVARANI"
+                            ],
+                            "x": 6.09375,
+                            "y": 30.625,
+                            "width": 22.5,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "5f44bc76-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 7.96875,
+                            "y": 42.03125,
+                            "width": 19.6875,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "5f44bc76-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "ARUMUGAM"
+                            ],
+                            "x": 7.96875,
+                            "y": 42.03125,
+                            "width": 19.6875,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "8464c14c-9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.25,
+                            "y": 52.96875,
+                            "width": 17.8125,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "8464c14c-9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "19/06/1978"
+                            ],
+                            "x": 6.25,
+                            "y": 52.96875,
+                            "width": 17.8125,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "db3287c0-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.40625,
+                            "y": 60.0,
+                            "width": 34.84375,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "db3287c0-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number"
+                            ],
+                            "x": 6.40625,
+                            "y": 60.0,
+                            "width": 34.84375,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "88eb48cf-d",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.25,
+                            "y": 66.09375,
+                            "width": 22.8125,
+                            "height": 4.84375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "88eb48cf-d",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "BMNPS3197J"
+                            ],
+                            "x": 6.25,
+                            "y": 66.09375,
+                            "width": 22.8125,
+                            "height": 4.84375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "8fdb81eb-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 7.65625,
+                            "y": 77.03125,
+                            "width": 28.4375,
+                            "height": 6.5625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "8fdb81eb-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "4.SLR"
+                            ],
+                            "x": 7.65625,
+                            "y": 77.03125,
+                            "width": 28.4375,
+                            "height": 6.5625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "dfcb5860-f",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.25,
+                            "y": 89.6875,
+                            "width": 12.5,
+                            "height": 4.53125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "dfcb5860-f",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Signature"
+                            ],
+                            "x": 6.25,
+                            "y": 89.6875,
+                            "width": 12.5,
+                            "height": 4.53125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D56_jpg.rf.b943d0ffaa8a1f311401971f2ac7d606.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "d27829bf-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 26.40625,
+                            "y": 3.90625,
+                            "width": 16.25,
+                            "height": 8.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "d27829bf-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "faHTST"
+                            ],
+                            "x": 26.40625,
+                            "y": 3.90625,
+                            "width": 16.25,
+                            "height": 8.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "43ab6f6d-5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 62.8125,
+                            "y": 5.46875,
+                            "width": 32.5,
+                            "height": 6.5625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "43ab6f6d-5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "HR "
+                            ],
+                            "x": 62.8125,
+                            "y": 5.46875,
+                            "width": 32.5,
+                            "height": 6.5625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "142e730f-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 4.53125,
+                            "y": 14.84375,
+                            "width": 37.5,
+                            "height": 5.3125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "142e730f-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "INCOME TAX DEPARTMENT"
+                            ],
+                            "x": 4.53125,
+                            "y": 14.84375,
+                            "width": 37.5,
+                            "height": 5.3125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "94cc1389-a",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.4375,
+                            "y": 14.6875,
+                            "width": 31.25,
+                            "height": 5.9375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "94cc1389-a",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 63.4375,
+                            "y": 14.6875,
+                            "width": 31.25,
+                            "height": 5.9375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "462542da-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 33.125,
+                            "y": 33.125,
+                            "width": 40.625,
+                            "height": 3.75,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "462542da-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Number Caro"
+                            ],
+                            "x": 33.125,
+                            "y": 33.125,
+                            "width": 40.625,
+                            "height": 3.75,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "0339dcab-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 39.0625,
+                            "y": 38.90625,
+                            "width": 22.65625,
+                            "height": 5.0,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "0339dcab-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "ACZPM7427Q"
+                            ],
+                            "x": 39.0625,
+                            "y": 38.90625,
+                            "width": 22.65625,
+                            "height": 5.0,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "ca5da224-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.46875,
+                            "y": 52.8125,
+                            "width": 15.3125,
+                            "height": 3.90625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "ca5da224-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "4/Namo"
+                            ],
+                            "x": 5.46875,
+                            "y": 52.8125,
+                            "width": 15.3125,
+                            "height": 3.90625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "d6d9b1b6-c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.3125,
+                            "y": 57.5,
+                            "width": 28.28125,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "d6d9b1b6-c",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "MOHAMMED MOQUIM"
+                            ],
+                            "x": 5.3125,
+                            "y": 57.5,
+                            "width": 28.28125,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "5c04b4f8-1",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.625,
+                            "y": 68.75,
+                            "width": 37.5,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "5c04b4f8-1",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Ft  /Father's Name"
+                            ],
+                            "x": 5.625,
+                            "y": 68.75,
+                            "width": 37.5,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "7380e6ab-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.0,
+                            "y": 73.90625,
+                            "width": 29.0625,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "7380e6ab-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "MOHAMMED NAYEEM"
+                            ],
+                            "x": 5.0,
+                            "y": 73.90625,
+                            "width": 29.0625,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "adc9d577-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.625,
+                            "y": 86.25,
+                            "width": 31.875,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "adc9d577-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "g/DaBi"
+                            ],
+                            "x": 5.625,
+                            "y": 86.25,
+                            "width": 31.875,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "7ff8d8cd-8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 5.3125,
+                            "y": 91.40625,
+                            "width": 14.84375,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "7ff8d8cd-8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "03/07/1965"
+                            ],
+                            "x": 5.3125,
+                            "y": 91.40625,
+                            "width": 14.84375,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "fcd6866e-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 49.375,
+                            "y": 94.21875,
+                            "width": 22.65625,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "fcd6866e-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "T/Signature"
+                            ],
+                            "x": 49.375,
+                            "y": 94.21875,
+                            "width": 22.65625,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    },
+    {
+        "data": {
+            "ocr": "http://localhost:8080/D66_jpg.rf.c16498959211fb9b07f075ce5a0e56f3.jpg"
+        },
+        "predictions": [
+            {
+                "result": [
+                    {
+                        "id": "013654b7-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 63.4375,
+                            "y": 4.53125,
+                            "width": 32.96875,
+                            "height": 7.1875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "013654b7-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "RRR"
+                            ],
+                            "x": 63.4375,
+                            "y": 4.53125,
+                            "width": 32.96875,
+                            "height": 7.1875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "ac4142a7-6",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 64.0625,
+                            "y": 15.9375,
+                            "width": 31.875,
+                            "height": 7.03125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "ac4142a7-6",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "GOVT.OF INDIA"
+                            ],
+                            "x": 64.0625,
+                            "y": 15.9375,
+                            "width": 31.875,
+                            "height": 7.03125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "98ef0815-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 6.71875,
+                            "y": 17.5,
+                            "width": 33.125,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "98ef0815-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "COMETAX DEPARTMEN"
+                            ],
+                            "x": 6.71875,
+                            "y": 17.5,
+                            "width": 33.125,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "87ac95fa-7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.90625,
+                            "y": 29.0625,
+                            "width": 32.34375,
+                            "height": 4.375,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "87ac95fa-7",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "RAJENDRA BEHERA"
+                            ],
+                            "x": 3.90625,
+                            "y": 29.0625,
+                            "width": 32.34375,
+                            "height": 4.375,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "933e8f0b-3",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.90625,
+                            "y": 38.4375,
+                            "width": 31.5625,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "933e8f0b-3",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "RABINDRA BEHERA"
+                            ],
+                            "x": 3.90625,
+                            "y": 38.4375,
+                            "width": 31.5625,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "3a37b60b-e",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.4375,
+                            "y": 47.34375,
+                            "width": 16.875,
+                            "height": 5.0,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "3a37b60b-e",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "31/10/1985"
+                            ],
+                            "x": 3.4375,
+                            "y": 47.34375,
+                            "width": 16.875,
+                            "height": 5.0,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "baa8027e-0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.96875,
+                            "y": 59.375,
+                            "width": 35.625,
+                            "height": 4.21875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "baa8027e-0",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Permanent Account Numbel"
+                            ],
+                            "x": 2.96875,
+                            "y": 59.375,
+                            "width": 35.625,
+                            "height": 4.21875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "997e8510-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.4375,
+                            "y": 67.5,
+                            "width": 24.0625,
+                            "height": 5.46875,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "997e8510-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "AZUPB5197Q"
+                            ],
+                            "x": 3.4375,
+                            "y": 67.5,
+                            "width": 24.0625,
+                            "height": 5.46875,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "8a0b2b39-4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 3.59375,
+                            "y": 75.3125,
+                            "width": 20.9375,
+                            "height": 8.28125,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "8a0b2b39-4",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "ajna boen"
+                            ],
+                            "x": 3.59375,
+                            "y": 75.3125,
+                            "width": 20.9375,
+                            "height": 8.28125,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    },
+                    {
+                        "id": "d45997f7-b",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "value": {
+                            "x": 2.5,
+                            "y": 91.25,
+                            "width": 13.28125,
+                            "height": 5.15625,
+                            "rotation": 0
+                        }
+                    },
+                    {
+                        "id": "d45997f7-b",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "value": {
+                            "text": [
+                                "Signature"
+                            ],
+                            "x": 2.5,
+                            "y": 91.25,
+                            "width": 13.28125,
+                            "height": 5.15625,
+                            "rotation": 0
+                        },
+                        "score": 0.5
+                    }
+                ],
+                "score": 0.97
+            }
+        ]
+    }
+]

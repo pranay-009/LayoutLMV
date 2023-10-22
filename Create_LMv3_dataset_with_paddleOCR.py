@@ -14,7 +14,7 @@ ocr = PaddleOCR(use_angle_cls=False,
                 ) # need to run only once to download and load model into memory 
 
 
-images_folder_path  = "D:/Projects/AI_Projects/NLP/Document_AI/LayoutLM_Models/image" 
+images_folder_path  = r"D:/DocLayout/LayoutLMV3_Fine_Tuning/images"
 
 
 def create_image_url(filename):
@@ -60,7 +60,7 @@ def create_image_url(filename):
 def extracted_tables_to_label_studio_json_file_with_paddleOCR(images_folder_path):
     label_studio_task_list = []
     for images in os.listdir(images_folder_path):
-        if images.endswith('.png'):
+        if images.endswith('.jpg'):
             output_json = {}
             annotation_result = []
 
@@ -69,7 +69,7 @@ def extracted_tables_to_label_studio_json_file_with_paddleOCR(images_folder_path
             output_json['data'] =  {"ocr":create_image_url(images)}
 
                     
-            img = Image.open(f'D:/Projects/AI_Projects/NLP/Document_AI/LayoutLM_Models/image/{images}')
+            img = Image.open(os.path.join(images_folder_path,images))
 
             img = np.asarray(img)
             image_height, image_width = img.shape[:2]

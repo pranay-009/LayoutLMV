@@ -10,18 +10,18 @@ from engine import *
 
 
 featur_extractor = LayoutLMv3FeatureExtractor(apply_ocr=False)
-tokeniser = LayoutLMv3TokenizerFast.from_pretrained("../inputs/layoutlmv3Microsoft",ignore_mismatched_sizes=True)
+tokeniser = LayoutLMv3TokenizerFast.from_pretrained("D:\DocLayout\LayoutLMV3_Fine_Tuning\input\layoutlmv3-base",ignore_mismatched_sizes=True)
 
 processor = LayoutLMv3Processor(tokenizer=tokeniser,feature_extractor=featur_extractor)
-model = LayoutLMv3ForTokenClassification.from_pretrained('../inputs/layoutlmv3Microsoft')
+model = LayoutLMv3ForTokenClassification.from_pretrained('D:\DocLayout\LayoutLMV3_Fine_Tuning\input\layoutlmv3-base')
 
 
 if __name__ == "__main__":
-    ds = dataSet('../inputs/Training_layoutLMV3.json',processor)
+    ds = dataSet('D:\DocLayout\LayoutLMV3_Fine_Tuning\input\Training_layoutLMV3.json',processor)
     dataload = torch.utils.data.DataLoader(ds,batch_size=2)
 
     # creating model instance
-    model = ModelModule(4) 
+    model = ModelModule(3) 
 
     # optimizer and loss
     optimizer = AdamW(model.parameters(),lr=5e-5)
@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     # Training the model
     loss_list = []
-    for epoch in range(30):
+    for epoch in range(3):
         # Training
         train_loss = train_fn(dataload, model, optimizer)
         # print(model.parameters)

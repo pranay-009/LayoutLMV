@@ -23,7 +23,7 @@ def convert_bounding_box(x, y, width, height):
 
 
 ####################################### Loading json data ###################################
-with open("D:/Projects/AI_Projects/NLP/Document_AI/LayoutLM_Models/Training_json.json") as f:
+with open("..\LayoutLMV3_Fine_Tuning\Training_json.json") as f:
     data = json.load(f)
 
 
@@ -41,8 +41,8 @@ for annoatated_image in data:
 		if k == 'ocr':
 			v = v.split('8080/')[-1]
 			print(f'filename: {v}')
-
-			data["file_name"] = f"D:/Projects/AI_Projects/NLP/Document_AI/LayoutLM_Models/image/Training_Images/{v}"
+			#..\LayoutLMV3_Fine_Tuning\images
+			data["file_name"] = f"..\LayoutLMV3_Fine_Tuning\images\{v}"
 			output.append(data)
 
 
