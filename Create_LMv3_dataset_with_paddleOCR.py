@@ -14,7 +14,7 @@ ocr = PaddleOCR(use_angle_cls=False,
                 ) # need to run only once to download and load model into memory 
 
 
-images_folder_path  = r"D:/DocLayout/LayoutLMV3_Fine_Tuning/images"
+images_folder_path  = r"D:\LayoutMV\LayoutLMV\images"
 
 
 def create_image_url(filename):
@@ -78,42 +78,44 @@ def extracted_tables_to_label_studio_json_file_with_paddleOCR(images_folder_path
             result = ocr.ocr(img,cls=False)
 
             #print(result)
+            try:
+                for output in result:
 
-            for output in result:
+                    for item in output: 
+                        co_ord = item[0]
+                        text = item[1][0]
 
-                for item in output: 
-                    co_ord = item[0]
-                    text = item[1][0]
+                        four_co_ord = [co_ord[0][0],co_ord[1][1],co_ord[2][0]-co_ord[0][0],co_ord[2][1]-co_ord[1][1]]
 
-                    four_co_ord = [co_ord[0][0],co_ord[1][1],co_ord[2][0]-co_ord[0][0],co_ord[2][1]-co_ord[1][1]]
+                        #print(four_co_ord)
+                        #print(text)
 
-                    #print(four_co_ord)
-                    #print(text)
+                        bbox = {
+                        'x': 100 * four_co_ord[0] / image_width,
+                        'y': 100 * four_co_ord[1] / image_height,
+                        'width': 100 * four_co_ord[2] / image_width,
+                        'height': 100 * four_co_ord[3] / image_height,
+                        'rotation': 0
+                                }
+                        
 
-                    bbox = {
-                    'x': 100 * four_co_ord[0] / image_width,
-                    'y': 100 * four_co_ord[1] / image_height,
-                    'width': 100 * four_co_ord[2] / image_width,
-                    'height': 100 * four_co_ord[3] / image_height,
-                    'rotation': 0
-                            }
-                    
+                        if not text:
+                            continue
+                        region_id = str(uuid4())[:10]
+                        score = 0.5
+                        bbox_result = {
+                            'id': region_id, 'from_name': 'bbox', 'to_name': 'image', 'type': 'rectangle',
+                            'value': bbox}
+                        transcription_result = {
+                            'id': region_id, 'from_name': 'transcription', 'to_name': 'image', 'type': 'textarea',
+                            'value': dict(text=[text], **bbox), 'score': score}
+                        annotation_result.extend([bbox_result, transcription_result])
+                        #print('annotation_result :\n',annotation_result)
+                output_json['predictions'] = [ {"result": annotation_result,  "score":0.97}]
 
-                    if not text:
-                        continue
-                    region_id = str(uuid4())[:10]
-                    score = 0.5
-                    bbox_result = {
-                        'id': region_id, 'from_name': 'bbox', 'to_name': 'image', 'type': 'rectangle',
-                        'value': bbox}
-                    transcription_result = {
-                        'id': region_id, 'from_name': 'transcription', 'to_name': 'image', 'type': 'textarea',
-                        'value': dict(text=[text], **bbox), 'score': score}
-                    annotation_result.extend([bbox_result, transcription_result])
-                    #print('annotation_result :\n',annotation_result)
-            output_json['predictions'] = [ {"result": annotation_result,  "score":0.97}]
-
-            label_studio_task_list.append(output_json)
+                label_studio_task_list.append(output_json)
+            except Exception as e:
+                continue
         
 
     # saving label_stdui_task_list as json file to import in label_studio
